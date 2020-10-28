@@ -60,3 +60,8 @@ a:hover {
 	color: #b74d4d;
 	transition-duration: 0.5s;
 }
+
+#gif {
+	width: 300px;
+	border-radius: 10px
+}
